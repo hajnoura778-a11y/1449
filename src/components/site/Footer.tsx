@@ -10,7 +10,7 @@ export function Footer() {
         <div className="md:col-span-2">
           <Link to="/" className="inline-flex items-center gap-2.5 font-display font-bold text-slate-900">
             <img 
-              src="/ss.svg" 
+              src="/united-arab-emirates (1).svg" 
               alt="شعار منصة حماية المستهلك" 
               width={40} 
               height={40} 

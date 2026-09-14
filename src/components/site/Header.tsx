@@ -49,7 +49,7 @@ export function Header() {
             className="group flex items-center gap-3 transition-transform duration-200 active:scale-95 shrink-0"
           >
             <img 
-              src="/ss.svg" 
+              src="sss.svg" 
               alt="شعار منصة حماية المستهلك" 
               className="h-10 md:h-12 w-auto object-contain transition-transform duration-300 group-hover:scale-105" 
               // @ts-ignore
